@@ -33,7 +33,6 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin: 0.3em 0;
 }
 
 nav a {
@@ -43,7 +42,6 @@ nav a {
   text-decoration: none;
   font-family: sans-serif;
   border-radius: 3px;
-  display: inline-block;
 }
 
 nav a:hover {
