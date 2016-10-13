@@ -1,20 +1,20 @@
 html {
   box-sizing: border-box;
   line-height: 1.5rem;
-  background-color: rgb(219,214,207)
+  background-color: rgb(219, 214, 207);
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-body{
+body {
   margin: 0;
 }
 
 .masthead {
   background-color: #79756f;
-  border-top: 3px solid #595652;;
+  border-top: 3px solid #595652;
   border-bottom: 3px solid #595652;
   padding: 0.75em;
 }
